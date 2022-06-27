@@ -1,0 +1,80 @@
+- name: Marcus G Pezzolesi
+  photo: Marcus.jpeg
+  info: Associate Professor
+  url: marcuspezzolesi
+  group: 1
+
+- name: Chris Simeone
+  photo: chris.jpg
+  info: Graduate Student
+  url: chrissimeone
+  group: 1
+
+- name: Joselin Hernandez
+  photo: joselin_hernandez.jpeg
+  info: Postdoc
+  url: joselinhernandez
+  group: 1
+
+- name: Brady Neeley
+  photo: brady_neeley.jpg
+  info: Bioinformatics Data Analyst
+  url: bradyneeley
+  group: 1
+
+- name: Melissa Pezzolesi
+  photo: missing.jpeg
+  info: Study Coordinator
+  url: melissapezzolesi
+  group: 1
+
+- name: Jonathan Gutierrez
+  photo: missing.jpeg
+  info: Study Coordinator
+  url: jonathangutierrez
+  group: 1
+
+- name: Vismaya Kharkar
+  photo: Vismaya.jpg
+  info: Medical Student Researcher
+  url: vismayakharkar
+  group: 1
+
+- name: Karah Hall
+  photo: karah.jpg
+  info: Undergraduate Researcher
+  url: karahhall
+  group: 1
+
+- name: Alex Wiedemann
+  photo: alex_w.jpg
+  info: Undergraduate Researcher
+  url: alexwiedemann
+  group: 1
+
+- name: Michael Lansford
+  photo: michael_lansford.jpg
+  info: Rotational Grad Student
+  url: michaellansford
+  group: 1
+
+- name: Scott Frodsham
+  photo: 
+  info: Bioinformatics Data Analyst
+  url: scottfrodsham
+  group: 8
+  year: 2017-2021
+
+- name: Jose Lazaroguevara
+  photo: 
+  info: MD/Graduate Student
+  url: joselazaroguevara
+  group: 8
+  year: 2019-2021
+  
+- name: Adam Johnson
+  photo: aparnakumar.jpg
+  info: Undergraduate Researcher
+  url: adamhansen
+  group: 8
+  year: 2021-2022
