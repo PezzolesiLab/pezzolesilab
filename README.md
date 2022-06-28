@@ -47,3 +47,6 @@ proj2<br/>
 
 * **Changing the Contact Page**
   * This one is all in markdown, see the info on editing the homepage for some basics on markdown, googling markdown is great for help too. You can just edit the text here however you want. Adding \<br/> where you want a break in a line or a new line will be helpful here or in markdown in general. This file is found here: `_pages/contact.md`.
+
+##Contact Brady if any questions arise or help is needed
+* mbradyneeley@gmail.com
