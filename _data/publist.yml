@@ -6,7 +6,7 @@
   highlight: 1
   news2:
 
-- title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
+- title: "Sample 1"
   image: Young2021.png
   description: 
   authors: 
@@ -16,7 +16,7 @@
   highlight: 1
   news2: 
 
-- title: "Whole‐Brain Image Analysis and Anatomical Atlas 3D Generation Using MagellanMapper"
+- title: "Sample 2"
   image: Young2020.jpg
   description: 
   authors: 
@@ -26,7 +26,7 @@
   highlight: 1
   news2: 
 
-- title: "Genome-wide de novo risk score implicates promoter variation in autism spectrum disorder"
+- title: "Sample 3"
   image: An2018.gif
   description: 
   authors: 
@@ -36,7 +36,7 @@
   highlight: 1
   news2: 
 
-- title: "An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder"
+- title: "Sample 4"
   image: Werling2018.png
   description: 
   authors: 
@@ -46,7 +46,7 @@
   highlight: 1
   news2: 
 
-- title: "Opposing Effects on NaV1.2 Function Underlie Differences Between SCN2A Variants Observed in Individuals With Autism Spectrum Disorder or Infantile Seizures"
+- title: "Sample 5"
   image: BenShalom2017.jpg
   description: 
   authors: 
@@ -56,7 +56,7 @@
   highlight: 1
   news2: 
 
-- title: "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci"
+- title: "Sample 6"
   image: Sanders2015.png
   description: 
   authors: 
@@ -66,7 +66,7 @@
   highlight: 1
   news2: 
 
-- title: "Synaptic, transcriptional and chromatin genes disrupted in autism"
+- title: "Sample 7"
   image: DeRubeis2014.png
   description: 
   authors: 
@@ -76,7 +76,7 @@
   highlight: 1
   news2: 
 
-- title: "The contribution of de novo coding mutations to autism spectrum disorder"
+- title: "Sample 8"
   image: Iossifov2014.png
   description: 
   authors: 
@@ -86,7 +86,7 @@
   highlight: 1
   news2: 
 
-- title: "De novo mutations revealed by whole-exome sequencing are strongly associated with autism"
+- title: "Sample 9"
   image: Sanders2012.png
   description: 
   authors: 
@@ -96,7 +96,7 @@
   highlight: 1
   news2: 
 
-- title: "Multiple Recurrent De Novo CNVs, Including Duplications of the 7q11.23 Williams Syndrome Region, Are Strongly Associated with Autism"
+- title: "Sample 10"
   image: Sanders2011.png
   description: 
   authors: 
