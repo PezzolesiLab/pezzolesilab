@@ -9,8 +9,8 @@
 title: The Pezzolesi Lab
 email: your-email@domain.com
 description: 
-baseurl: "/pezzolesi-lab"
-url: "https://mbradyneeley.github.io"
+baseurl: ""
+url: "https://pezzolesi-lab.com"
 
 include:
   - .htaccess
