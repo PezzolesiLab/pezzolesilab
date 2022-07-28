@@ -1,13 +1,13 @@
 ---
 layout: member
-title: Marcus Pezzolesi
-position: Principal Investigator
-handle: marcuspezzolesi
-email: marcus.pezzolesi@hsc.utah.edu
-twitter: marcuspezzolesi
-github: PezzolesiLab
+title: Melissa Pezzolesi
+position: Study Coordinator
+handle: melissapezzolesi
+email: melissa.pezzolesi@hsc.utah.edu
+twitter: 
+github: 
 scholar: 
-photo: Marcus.jpeg
+photo: 
 ucsf: 
 ---
 
