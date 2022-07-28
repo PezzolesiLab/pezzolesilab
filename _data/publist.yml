@@ -6,102 +6,33 @@
   highlight: 1
   news2:
 
-- title: "Sample 1"
+- title: "Targeted Next-Generation Sequencing Identifies Pathogenic Variants in Diabetic Kidney Disease"
   image: Young2021.png
   description: 
   authors: 
   link:
-    url: https://elifesciences.org/articles/61408
-    display:  Young et al. eLife (2021)
+    url: https://pubmed.ncbi.nlm.nih.gov/33774617/#:~:text=Diabetic%20Kidney%20Disease-,Targeted%20Next%2DGeneration%20Sequencing%20Identifies%20Pathogenic%20Variants%20in%20Diabetic%20Kidney,doi%3A%2010.1159%2F000514578.
+    display:  Jose Lazaro-Guevara, … , Marcus G. Pezzolesi (2021)
   highlight: 1
   news2: 
 
-- title: "Sample 2"
+- title: "A dominant negative ADIPOQ mutation in a diabetic family with renal disease, hypoadiponectinemia, and hyperceramidemia"
   image: Young2020.jpg
   description: 
   authors: 
   link:
-    url: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104
-    display: Young et al. Current Protocols in Neuroscience (2020)
+    url: https://www.nature.com/articles/s41525-022-00314-z
+    display: Simeone, C.A., Wilkerson, J.L., Poss, A.M. et al. (2022)
   highlight: 1
   news2: 
 
-- title: "Sample 3"
+- title: "Residual β cell function and monogenic variants in long-duration type 1 diabetes patients"
   image: An2018.gif
   description: 
   authors: 
   link:
-    url: https://science.sciencemag.org/content/362/6420/eaat6576.long
-    display:  An et al. Science (2018)
+    url: https://pubmed.ncbi.nlm.nih.gov/31264968/
+    display:  Yu MG, … , Pezzolesi MG, King GL (2019)
   highlight: 1
   news2: 
 
-- title: "Sample 4"
-  image: Werling2018.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/s41588-018-0107-y
-    display:  Werling et al. Nature Genetics (2018)
-  highlight: 1
-  news2: 
-
-- title: "Sample 5"
-  image: BenShalom2017.jpg
-  description: 
-  authors: 
-  link:
-    url: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(17)30041-0/fulltext
-    display:  Ben-Shalom et al. Biological Psychiatry (2017)
-  highlight: 1
-  news2: 
-
-- title: "Sample 6"
-  image: Sanders2015.png
-  description: 
-  authors: 
-  link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26402605
-    display:  Sanders et al. Neuron (2015)
-  highlight: 1
-  news2: 
-
-- title: "Sample 7"
-  image: DeRubeis2014.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/nature13772
-    display:  De Rubeis et al. Nature (2014)
-  highlight: 1
-  news2: 
-
-- title: "Sample 8"
-  image: Iossifov2014.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/nature13908
-    display:  Iossifov et al. Nature (2014)
-  highlight: 1
-  news2: 
-
-- title: "Sample 9"
-  image: Sanders2012.png
-  description: 
-  authors: 
-  link:
-    url: https://www.nature.com/articles/nature10945
-    display:  Sanders et al. Nature (2012)
-  highlight: 1
-  news2: 
-
-- title: "Sample 10"
-  image: Sanders2011.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0896627311003746
-    display:  Sanders et al. Neuron (2011)
-  highlight: 1
-  news2: 
