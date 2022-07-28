@@ -10,3 +10,9 @@ layout: default
   <div id="newsid" class="col-sm-4" >
 	{% include news.html %}
   </div>
+  <div id="twitter" class="col-sm-4">
+        {{ content }}
+        {% if page.twitter-timeline %}
+          {% include modules/twitter-timeline/twitter-timeline.html %}
+        {% endif %}
+  </div>
