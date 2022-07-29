@@ -66,7 +66,7 @@ We work with closely with numerous collaborators at the University of Utah, incl
 We also collaborate with the leading researchers from across the United States, including researchers at the Joslin Diabetes Center, the [University of Pennsylvania](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/kidney), the [University of Virginia](https://med.virginia.edu/cphg/), [City of Hope](https://www.cityofhope.org/), the [University of Michigan](https://medicine.umich.edu/dept/intmed/divisions/nephrology), and the [Jackson Laboratory](https://www.jax.org/). 
 
 ### Joining the Pezzolesi Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+If you are interested in joining, please go to the [recruitment](recruitment) page.
 
 ### Funding
 We are grateful for funding from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/), the [Diabetic Complications Consortium](https://diacomp.org/), the [Driving Out Diabetes](https://healthcare.utah.edu/wellness/driving-out-diabetes/), the [National Kidney Foundation of Utah and Idaho](https://www.kidneyut.org/), the [Utah Genome Project](https://uofuhealth.utah.edu/center-genomic-medicine/research/utah-genome-project.php), [Janssen](https://www.janssen.com/), and [renalytix](https://renalytix.com/).
