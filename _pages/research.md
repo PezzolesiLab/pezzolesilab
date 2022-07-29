@@ -53,7 +53,7 @@ Recent studies conducted primarily in patients with NDKD have shown that next-ge
   
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
   
-##Type 1 Diabetes Incidence Among Youth in Utah: A Geographical Analysis
+## Type 1 Diabetes Incidence Among Youth in Utah: A Geographical Analysis
 <div style="text-align: justify">
 Type 1 Diabetes (T1D) is a unique and complex autoimmune disease that is heavily influenced by non-genetic factors such as socioeconomic status and environmental triggers. T1D is differentiated from Type 2 Diabetes (T2D) in that it is not caused primarily by dietary or lifestyle behaviors. In individuals with T1D, the body does not produce insulin and cannot, therefore, break down the sugars and starches consumed. A great deal of research has been done on the clinical aspects of T1D and the complications that result from it. Still, much less has aimed to identify the socio-demographic and environmental triggers associated with the spatial pattern of T1D incidence, as we do here. This research is unique in that it leveraged individual-level medical records from the Utah Population Database and analyzed the spatial patterns of T1D at a very fine geographic scale, the Census Block Group (CBG) level, in the state of Utah. One of the primary limitations of others papers has been the use of much larger scale geographic areas and the aggregation of data, which tends to hide spatial patterns. The primary contribution of this research was to identify hotspots or clusters at the CBG level, where the risk of developing T1D is significantly higher than the general population, and to clarify certain predictors of those hotspots.
   
