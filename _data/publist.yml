@@ -36,3 +36,12 @@
   highlight: 1
   news2: 
 
+- title: "The associations between COVID-19 diagnosis, type 1 diabetes, and the risk of diabetic ketoacidosis: A nationwide cohort from the US using the Cerner Real-World Data"
+  image: An2018.gif
+  description: 
+  authors: Qeadan F, Tingey B, Egbert J, Pezzolesi MG, Burge MR, Peterson KA, Honda T.  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35439266/
+    display:  test
+  highlight: 1
+  news2: 
