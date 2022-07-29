@@ -10,7 +10,7 @@ permalink: /research/
 
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/rapidrenal2019.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## The Familiality of Rapid Renal Decline in Diabetes
 <div style="text-align: justify">
@@ -25,7 +25,7 @@ To advance this area of research, we set out to investigate the familial nature 
 ---- 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ADIPOQ2022.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## A dominant negative ADIPOQ mutation in a diabetic family with renal disease, hypoadiponectinemia, and hyperceramidemia
 <div style="text-align: justify">
@@ -37,7 +37,7 @@ Previous studies have identified common variants in or near ADIPOQ, the gene tha
 ---
 
   
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Sequencing2021.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
   
 ## Targeted Next-Generation Sequencing Identifies Pathogenic Variants in Diabetic Kidney Disease
 <div style="text-align: justify">
@@ -51,7 +51,7 @@ Recent studies conducted primarily in patients with NDKD have shown that next-ge
 ---
   
   
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Utah2021.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
   
 ## Type 1 Diabetes Incidence Among Youth in Utah: A Geographical Analysis
 <div style="text-align: justify">
