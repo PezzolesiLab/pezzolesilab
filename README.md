@@ -1,4 +1,8 @@
-# Pezzolesi Lab
+# Pezzolesi Lab Website
+
+## Overview
+
+This is the code for the Pezzolessi Lab Website. This repo is an adaptation of .... This website collects essential information about lab participation, publication information, and team members. This website was original adapted by [Brady Neeley](mailto:mbradyneeley@gmail.com) and continues to be updated by Devorah Stucki. If you have any questions about website functionality or find any bugs please reach out to [Devorah Stucki](mailto:devorah.stucki@hsc.utah.edu)
 
 ## Making Changes to the Website
 * **Adding a new team member**
@@ -47,6 +51,3 @@ proj2<br/>
 
 * **Changing the Contact Page**
   * This one is all in markdown, see the info on editing the homepage for some basics on markdown, googling markdown is great for help too. You can just edit the text here however you want. Adding \<br/> where you want a break in a line or a new line will be helpful here or in markdown in general. This file is found here: `_pages/contact.md`.
-
-## Contact Brady if any questions arise or help is needed
-* mbradyneeley@gmail.com
