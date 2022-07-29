@@ -56,8 +56,8 @@ The primary focus of the Pezzolesi Research Team’s research is to understand t
 Our efforts to understand the basis of diabetes, its complications, and chronic kidney disease begin with the valuable contributions of individuals and their families who share our passion to better prevent, diagnose, and treat these diseases. 
 
 If you or a family member are interested in participating in or learning more about our research, please contact us at:
-    [The Utah Diabetes Study](malito:UtahDiabetesStudy@utah.edu)
-    [The Utah Kidney Study](malito:UtahKidneyStudy@utah.edu)
+  - [The Utah Diabetes Study](malito:UtahDiabetesStudy@utah.edu)
+  - [The Utah Kidney Study](malito:UtahKidneyStudy@utah.edu)
 
 ### Collaborators
 
