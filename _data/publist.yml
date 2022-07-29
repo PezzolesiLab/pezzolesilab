@@ -1,5 +1,5 @@
 - title: "The Familiality of Rapid Renal Decline in Diabetes"
-  image: familialityFig.png
+  image: rapidrenal2019.jpeg
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341306/
     display: Frodsham et al. Diabetes (2019)
@@ -7,7 +7,7 @@
   news2:
 
 - title: "Targeted Next-Generation Sequencing Identifies Pathogenic Variants in Diabetic Kidney Disease"
-  image: Young2021.png
+  image: Sequencing2021.jpeg
   description: 
   authors: 
   link:
@@ -17,7 +17,7 @@
   news2: 
 
 - title: "A dominant negative ADIPOQ mutation in a diabetic family with renal disease, hypoadiponectinemia, and hyperceramidemia"
-  image: Young2020.jpg
+  image: ADIPOQ2022.jpeg
   description: 
   authors: 
   link:
@@ -27,7 +27,7 @@
   news2: 
 
 - title: "Residual β cell function and monogenic variants in long-duration type 1 diabetes patients"
-  image: An2018.gif
+  image: Bcell2019.jpeg
   description: 
   authors: 
   link:
@@ -37,7 +37,7 @@
   news2: 
 
 - title: "The associations between COVID-19 diagnosis, type 1 diabetes, and the risk of diabetic ketoacidosis: A nationwide cohort from the US using the Cerner Real-World Data"
-  image: An2018.gif
+  image: COVID2022.jpg
   description: 
   authors:  
   link:
@@ -47,7 +47,7 @@
   news2: 
   
 - title: "Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology Involved in Glomerular Basement Membrane Collagen"
-  image: An2018.gif
+  image: Salem2019.jpg
   description: 
   authors:  
   link:
@@ -57,7 +57,7 @@
   news2: 
 
 - title: "Association of Coding Variants in Hydroxysteroid 17-beta Dehydrogenase 14 ( HSD17B14) with Reduced Progression to End Stage Kidney Disease in Type 1 Diabetes"
-  image: An2018.gif
+  image: beta2021.jpg
   description: 
   authors:  
   link:
@@ -67,7 +67,7 @@
   news2: 
   
 - title: "Comprehensive Search for Novel Circulating miRNAs and Axon Guidance Pathway Proteins Associated with Risk of ESKD in Diabetes"
-  image: An2018.gif
+  image: miRNA2021.jpg
   description: 
   authors:  
   link:
@@ -77,7 +77,7 @@
   news2: 
   
 - title: "Type 1 Diabetes incidence among youth in Utah: A geographical analysis"
-  image: An2018.gif
+  image: Utah2021.jpeg
   description: 
   authors:  
   link:
@@ -87,7 +87,7 @@
   news2: 
   
 - title: "Rotten to the Cortex: Ceramide-Mediated Lipotoxicity in Diabetic Kidney Disease"
-  image: An2018.gif
+  image: cortex2021.jpeg
   description: 
   authors:  
   link:
