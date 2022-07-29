@@ -1,23 +1,23 @@
 - title: "The Familiality of Rapid Renal Decline in Diabetes"
-  image: familialityFig.png
+  image: rapidrenal2019.png
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341306/
-    display: Frodsham et al. Diabetes (2019)
+    display: TEST:: Frodsham et al. Diabetes (2019)
   highlight: 1
   news2:
 
 - title: "Targeted Next-Generation Sequencing Identifies Pathogenic Variants in Diabetic Kidney Disease"
-  image: Young2021.png
+  image: Sequencing2021.jpeg
   description: 
   authors: 
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/33774617/#:~:text=Diabetic%20Kidney%20Disease-,Targeted%20Next%2DGeneration%20Sequencing%20Identifies%20Pathogenic%20Variants%20in%20Diabetic%20Kidney,doi%3A%2010.1159%2F000514578.
-    display:  Jose Lazaro-Guevara, … , Marcus G. Pezzolesi (2021)
+    display: Jose Lazaro-Guevara, … , Marcus G. Pezzolesi (2021)
   highlight: 1
   news2: 
 
 - title: "A dominant negative ADIPOQ mutation in a diabetic family with renal disease, hypoadiponectinemia, and hyperceramidemia"
-  image: Young2020.jpg
+  image: ADIPOQ2022.jpeg
   description: 
   authors: 
   link:
@@ -27,7 +27,7 @@
   news2: 
 
 - title: "Residual β cell function and monogenic variants in long-duration type 1 diabetes patients"
-  image: An2018.gif
+  image: Bcell2019.jpeg
   description: 
   authors: 
   link:
@@ -36,3 +36,62 @@
   highlight: 1
   news2: 
 
+- title: "The associations between COVID-19 diagnosis, type 1 diabetes, and the risk of diabetic ketoacidosis: A nationwide cohort from the US using the Cerner Real-World Data"
+  image: COVID2022.jpg
+  description: 
+  authors:  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35439266/
+    display:  Qeadan F, Tingey B, Egbert J, Pezzolesi MG, Burge MR, Peterson KA, Honda T. (2022)
+  highlight: 1
+  news2: 
+  
+- title: "Genome-Wide Association Study of Diabetic Kidney Disease Highlights Biology Involved in Glomerular Basement Membrane Collagen"
+  image: Salem2019.jpg
+  description: 
+  authors:  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/31537649/
+    display:  Salem RM, Todd JN et al. (2019)
+  highlight: 1
+  news2: 
+
+- title: "Association of Coding Variants in Hydroxysteroid 17-beta Dehydrogenase 14 ( HSD17B14) with Reduced Progression to End Stage Kidney Disease in Type 1 Diabetes"
+  image: beta2021.jpg
+  description: 
+  authors:  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34261756/
+    display:  Mychaleckyj JC, Valo E et al. (2021)
+  highlight: 1
+  news2: 
+  
+- title: "Comprehensive Search for Novel Circulating miRNAs and Axon Guidance Pathway Proteins Associated with Risk of ESKD in Diabetes"
+  image: miRNA2021.jpg
+  description: 
+  authors:  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34140396/
+    display:  Satake E, Saulnier PJ et al. (2021)
+  highlight: 1
+  news2: 
+  
+- title: "Type 1 Diabetes incidence among youth in Utah: A geographical analysis"
+  image: Utah2021.jpeg
+  description: 
+  authors:  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33933801/
+    display:  SMcCullough ML, Wan N, Pezzolesi MG (2021)
+  highlight: 1
+  news2: 
+  
+- title: "Rotten to the Cortex: Ceramide-Mediated Lipotoxicity in Diabetic Kidney Disease"
+  image: cortex2021.jpeg
+  description: 
+  authors:  
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/33933801/
+    display:  SNicholson RJ, Pezzolesi MG, Summers SA. (2021)
+  highlight: 1
+  news2: 

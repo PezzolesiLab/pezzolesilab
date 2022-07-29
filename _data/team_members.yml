@@ -63,7 +63,21 @@
   info: Rotational Grad Student
   url: michaellansford
   group: 1
-
+  
+- name: Adam Johnson
+  photo: aparnakumar.jpg
+  info: Undergraduate Researcher
+  url: adamhansen
+  group: 8
+  year: 2021-2022
+  
+- name: Jaxon King
+  photo: 
+  info: Undergraduate Researcher
+  url:
+  group: 8
+  year: 2021-2022
+  
 - name: Scott Frodsham
   photo: 
   info: Bioinformatics Data Analyst
@@ -78,9 +92,45 @@
   group: 8
   year: 2019-2021
   
-- name: Adam Johnson
-  photo: aparnakumar.jpg
-  info: Undergraduate Researcher
-  url: adamhansen
+- name: Wynn Mellor
+  photo: 
+  info: High School Researcher
+  url:
   group: 8
-  year: 2021-2022
+  year: 2021
+  
+- name: Liyanna Lee
+  photo: 
+  info: Native American Research Internship Program Researcher
+  url:
+  group: 8
+  year: 2021
+  
+- name: Hannah Bagot
+  photo: 
+  info: Undergraduate Researcher
+  url:
+  group: 8
+  year: 2018-2019
+  
+- name: River Gunville
+  photo: 
+  info: Native American Research Internship Program Researcher
+  url:
+  group: 8
+  year: 2018
+  
+- name: A. Hunter Wright
+  photo: 
+  info: Medical Student Researcher
+  url:
+  group: 8
+  year: 2018
+  
+- name: Fernando Guiffrida
+  photo: 
+  info: Visiting Fellow
+  url:
+  group: 8
+  year: 2018
+
