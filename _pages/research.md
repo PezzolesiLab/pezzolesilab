@@ -10,6 +10,46 @@ permalink: /research/
 
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ADIPOQ2022.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## A dominant negative ADIPOQ mutation in a diabetic family with renal disease, hypoadiponectinemia, and hyperceramidemia
+<div style="text-align: justify">
+Adiponectin is an adipocyte-derived hormone with pleiotropic actions that promote insulin sensitivity, inhibit cell death, and decrease inflammation. Adiponectin forms an obligate trimer and circulates as trimers, hexamers, and high-molecular weight multimers that target various tissues and cell types, including liver, kidney, cardiac myocytes, and pancreatic β cells. Levels of adiponectin are decreased in obesity and may contribute to a chronic state of inflammation that leads to insulin resistance, type 2 diabetes, coronary artery disease, myocardial infarction, nonalcoholic steatohepatitis, and kidney disease. Recently, the antiapoptotic, insulin-sensitizing, glucose lowering, anti-inflammatory, and anti-steatotic effects of adiponectin have been linked to its role in sphingolipid metabolism and its receptor-mediated activation of ceramidase activity, which reduce levels of lipotoxic ceramides.
+
+Previous studies have identified common variants in or near ADIPOQ, the gene that encodes adiponectin, that are associated with aberrant adiponectin levels, obesity, type 2 diabetes, and diabetic kidney disease. Rare ADIPOQ amino acid substitution mutations have also been reported in individuals with diabetes and hypoadiponectinemia. Here, we describe the first multigenerational family with a protein-truncating mutation in ADIPOQ (p.Gly93GlufsTer73), diabetes, and end-stage renal disease. Carriers of this mutation have dramatically reduced circulating adiponectin and increased long-chain ceramide levels. Functional studies show that this mutation acts via a dominant negative mechanism, with the wild-type and mutant proteins interacting, leading to decreased levels of cellular and secreted adiponectin. Our findings support adiponectin’s protective role and suggest that its genetic loss leads to ceramide accumulation which, in turn, contributes to diabetes and progression of renal disease.
+</div>
+
+---
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/rapidrenal2019.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## The Familiality of Rapid Renal Decline in Diabetes
+<div style="text-align: justify">
+Despite significant advances in the management of diabetes, including widespread implementation of renoprotective therapies when indicated, diabetic kidney disease (DKD) remains the leading cause of end-stage renal disease (ESRD) in the U.S. and is associated with excess morbidity and mortality.
+
+Progressive glomerular filtration rate (GFR) decline precedes ESRD and has recently been established as the predominant clinical feature of DKD. For some patients with DKD, renal function declines gradually, whereas others experience a sudden decline, quickly reach ESRD (defined by a GFR <15 mL/min/1.73 m2), and require renal replacement therapy in the form of dialysis or the receipt of a functioning kidney through donor transplantation to survive. Despite interindividual variability, renal function decline progresses at a steady, or linear, rate over the course of DKD. In addition, those with more rapid renal decline have higher risk of all-cause mortality.
+
+Wide individual variation in the rate of progression of renal function decline in diabetes has motivated recent studies to identify biomarkers that are associated with or predictive of rapid renal decline. Such biomarkers may have utility in patient surveillance and management. In addition to studies examining proteomic, metabolomic, and environomic profiles associated with renal decline in diabetes, various studies are also underway to identify genetic factors that contribute to its risk. Although these genetic studies are likely to be more powerful than previous studies that have examined a spectrum of DKD phenotypes, the familial risk of rapid renal decline has not been investigated. Understanding the familiality of rapid renal decline is paramount to recognizing the magnitude of the influence of shared factors, both environmental and genetic, on rapid renal decline.
+
+To advance this area of research, we set out to investigate the familial nature of progressive renal function decline in diabetes using the Utah Population Database (UPDB), a unique research resource that links genealogical data to electronic health record data. Through this population-based retrospective cohort study, we show that there is strong evidence of familial clustering of rapid renal decline. Our findings support the hypothesis that shared familial factors (e.g., shared environmental and genetic factors) play a role in its susceptibility.
+</div>
+  
+---- 
+  
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Sequencing2021.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+  
+## Targeted Next-Generation Sequencing Identifies Pathogenic Variants in Diabetic Kidney Disease
+<div style="text-align: justify">
+Diabetes is the most common cause of chronic kidney disease (CKD). Continued increase in the world-wide prevalence of diabetes has led to an increase in the global prevalence of diabetic kidney disease (DKD), also known as diabetic nephropathy. For patients with diabetes and CKD, the underlying cause of their kidney disease is often assumed to be a consequence of their diabetes. However, without histopathological evidence, it’s unclear whether such patients have true DKD, non-diabetic kidney disease (NDKD), or concomitant DKD and NDKD.
+
+The only way to truly determine whether CKD in patients with diabetes is a consequence of diabetes is to perform kidney biopsies. Unfortunately, kidney biopsies are not clinically indicated in the diagnosis of DKD. Interestingly, recent investigations of kidney biopsies from patients with type 1 diabetes (T1D) or type 2 diabetes (T2D) and CKD have shown that as many as 30–83% of patients diagnosed with DKD actually had kidney disease attributed to non-diabetic causes. Familial focal segmental glomerulosclerosis (FSGS), followed by hypertensive nephropathy, acute tubular necrosis, and IgA nephropathy were the most common diagnoses observed in diabetic patients found to have NDKD. Importantly, accurately identifying a patient’s primary cause of CKD is a crucial component of its proper classification, prognosis, and management.
+
+Recent studies conducted primarily in patients with NDKD have shown that next-generation sequencing (NGS) provides a promising avenue toward uncovering and establishing precise genetic diagnoses in various forms of kidney disease. The diagnostic yield from these studies range from approximately 10–40% and are highest among patients with congenital or cystic kidney disease. While these studies all show the utility of NGS in providing a molecular diagnosis for patients with heritable forms of kidney disease, whether this technology could also aid in the genetic diagnosis of patients with DKD is unclear. Importantly, improved understanding of the underlying disease process in DKD could have major implications in terms of patient care and monitoring as well as for research studies in this field. To date, no study has examined the distribution of rare variants in known kidney disease-related genes in unrelated patients with DKD. To address this, we performed targeted NGS using a custom gene panel comprised of 345 kidney disease-related genes to interrogate variations between identified NDKD and DKD to identify underlying causes of kidney complications in these patients.
+</div>
+
+---
+
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Utah2021.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
   
 ## Type 1 Diabetes Incidence Among Youth in Utah: A Geographical Analysis
@@ -31,44 +71,3 @@ The primary purposes of this study are to calculate incidence rates of T1D among
 </div>
 
 ---
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/rapidrenal2019.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-
-## The Familiality of Rapid Renal Decline in Diabetes
-<div style="text-align: justify">
-Despite significant advances in the management of diabetes, including widespread implementation of renoprotective therapies when indicated, diabetic kidney disease (DKD) remains the leading cause of end-stage renal disease (ESRD) in the U.S. and is associated with excess morbidity and mortality.
-
-Progressive glomerular filtration rate (GFR) decline precedes ESRD and has recently been established as the predominant clinical feature of DKD. For some patients with DKD, renal function declines gradually, whereas others experience a sudden decline, quickly reach ESRD (defined by a GFR <15 mL/min/1.73 m2), and require renal replacement therapy in the form of dialysis or the receipt of a functioning kidney through donor transplantation to survive. Despite interindividual variability, renal function decline progresses at a steady, or linear, rate over the course of DKD. In addition, those with more rapid renal decline have higher risk of all-cause mortality.
-
-Wide individual variation in the rate of progression of renal function decline in diabetes has motivated recent studies to identify biomarkers that are associated with or predictive of rapid renal decline. Such biomarkers may have utility in patient surveillance and management. In addition to studies examining proteomic, metabolomic, and environomic profiles associated with renal decline in diabetes, various studies are also underway to identify genetic factors that contribute to its risk. Although these genetic studies are likely to be more powerful than previous studies that have examined a spectrum of DKD phenotypes, the familial risk of rapid renal decline has not been investigated. Understanding the familiality of rapid renal decline is paramount to recognizing the magnitude of the influence of shared factors, both environmental and genetic, on rapid renal decline.
-
-To advance this area of research, we set out to investigate the familial nature of progressive renal function decline in diabetes using the Utah Population Database (UPDB), a unique research resource that links genealogical data to electronic health record data. Through this population-based retrospective cohort study, we show that there is strong evidence of familial clustering of rapid renal decline. Our findings support the hypothesis that shared familial factors (e.g., shared environmental and genetic factors) play a role in its susceptibility.
-</div>
----- 
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ADIPOQ2022.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-
-## A dominant negative ADIPOQ mutation in a diabetic family with renal disease, hypoadiponectinemia, and hyperceramidemia
-<div style="text-align: justify">
-Adiponectin is an adipocyte-derived hormone with pleiotropic actions that promote insulin sensitivity, inhibit cell death, and decrease inflammation. Adiponectin forms an obligate trimer and circulates as trimers, hexamers, and high-molecular weight multimers that target various tissues and cell types, including liver, kidney, cardiac myocytes, and pancreatic β cells. Levels of adiponectin are decreased in obesity and may contribute to a chronic state of inflammation that leads to insulin resistance, type 2 diabetes, coronary artery disease, myocardial infarction, nonalcoholic steatohepatitis, and kidney disease. Recently, the antiapoptotic, insulin-sensitizing, glucose lowering, anti-inflammatory, and anti-steatotic effects of adiponectin have been linked to its role in sphingolipid metabolism and its receptor-mediated activation of ceramidase activity, which reduce levels of lipotoxic ceramides.
-
-Previous studies have identified common variants in or near ADIPOQ, the gene that encodes adiponectin, that are associated with aberrant adiponectin levels, obesity, type 2 diabetes, and diabetic kidney disease. Rare ADIPOQ amino acid substitution mutations have also been reported in individuals with diabetes and hypoadiponectinemia. Here, we describe the first multigenerational family with a protein-truncating mutation in ADIPOQ (p.Gly93GlufsTer73), diabetes, and end-stage renal disease. Carriers of this mutation have dramatically reduced circulating adiponectin and increased long-chain ceramide levels. Functional studies show that this mutation acts via a dominant negative mechanism, with the wild-type and mutant proteins interacting, leading to decreased levels of cellular and secreted adiponectin. Our findings support adiponectin’s protective role and suggest that its genetic loss leads to ceramide accumulation which, in turn, contributes to diabetes and progression of renal disease.
-</div>
-
----
-
-  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Sequencing2021.jpeg){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-  
-## Targeted Next-Generation Sequencing Identifies Pathogenic Variants in Diabetic Kidney Disease
-<div style="text-align: justify">
-Diabetes is the most common cause of chronic kidney disease (CKD). Continued increase in the world-wide prevalence of diabetes has led to an increase in the global prevalence of diabetic kidney disease (DKD), also known as diabetic nephropathy. For patients with diabetes and CKD, the underlying cause of their kidney disease is often assumed to be a consequence of their diabetes. However, without histopathological evidence, it’s unclear whether such patients have true DKD, non-diabetic kidney disease (NDKD), or concomitant DKD and NDKD.
-
-The only way to truly determine whether CKD in patients with diabetes is a consequence of diabetes is to perform kidney biopsies. Unfortunately, kidney biopsies are not clinically indicated in the diagnosis of DKD. Interestingly, recent investigations of kidney biopsies from patients with type 1 diabetes (T1D) or type 2 diabetes (T2D) and CKD have shown that as many as 30–83% of patients diagnosed with DKD actually had kidney disease attributed to non-diabetic causes. Familial focal segmental glomerulosclerosis (FSGS), followed by hypertensive nephropathy, acute tubular necrosis, and IgA nephropathy were the most common diagnoses observed in diabetic patients found to have NDKD. Importantly, accurately identifying a patient’s primary cause of CKD is a crucial component of its proper classification, prognosis, and management.
-
-Recent studies conducted primarily in patients with NDKD have shown that next-generation sequencing (NGS) provides a promising avenue toward uncovering and establishing precise genetic diagnoses in various forms of kidney disease. The diagnostic yield from these studies range from approximately 10–40% and are highest among patients with congenital or cystic kidney disease. While these studies all show the utility of NGS in providing a molecular diagnosis for patients with heritable forms of kidney disease, whether this technology could also aid in the genetic diagnosis of patients with DKD is unclear. Importantly, improved understanding of the underlying disease process in DKD could have major implications in terms of patient care and monitoring as well as for research studies in this field. To date, no study has examined the distribution of rare variants in known kidney disease-related genes in unrelated patients with DKD. To address this, we performed targeted NGS using a custom gene panel comprised of 345 kidney disease-related genes to interrogate variations between identified NDKD and DKD to identify underlying causes of kidney complications in these patients.
-</div>
-
----
-
