@@ -61,9 +61,9 @@ If you or a family member are interested in participating in or learning more ab
 
 ### Collaborators
 
-We work with closely with numerous collaborators at the University of Utah, including the University of Utah Health Sciences Center, the [Diabetes and Metabolism Research Center](https://uofuhealth.utah.edu/diabetes-metabolism-research-center/), the [Utah Center for Genomic Discovery](https://ucgd.genetics.utah.edu/), the [Center for Genomic Medicine](https://uofuhealth.utah.edu/center-genomic-medicine/), and the Utah Population Database. 
+We work with closely with numerous collaborators at the University of Utah, including the University of Utah Health Sciences Center, the [Diabetes and Metabolism Research Center](https://uofuhealth.utah.edu/diabetes-metabolism-research-center/), the [Utah Center for Genomic Discovery](https://ucgd.genetics.utah.edu/), the [Center for Genomic Medicine](https://uofuhealth.utah.edu/center-genomic-medicine/), and the [Utah Population Database](https://uofuhealth.utah.edu/huntsman/utah-population-database/). 
 
-We also collaborate with the leading researchers from across the United States, including researchers at the Joslin Diabetes Center, the [University of Pennsylvania](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/kidney), the [University of Virginia](https://med.virginia.edu/cphg/), [City of Hope](https://www.cityofhope.org/), the [University of Michigan](https://medicine.umich.edu/dept/intmed/divisions/nephrology), and the [Jackson Laboratory](https://www.jax.org/). 
+We also collaborate with the leading researchers from across the United States, including researchers at the [Joslin Diabetes Center](https://www.joslin.org/), the [University of Pennsylvania](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/kidney), the [University of Virginia](https://med.virginia.edu/cphg/), [City of Hope](https://www.cityofhope.org/), the [University of Michigan](https://medicine.umich.edu/dept/intmed/divisions/nephrology), and the [Jackson Laboratory](https://www.jax.org/). 
 
 ### Joining the Pezzolesi Lab
 If you are interested in joining, please go to the [recruitment](recruitment) page.
