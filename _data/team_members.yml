@@ -65,9 +65,9 @@
   group: 1
   
 - name: Adam Johnson
-  photo: aparnakumar.jpg
+  photo:
   info: Undergraduate Researcher
-  url: adamhansen
+  url:
   group: 8
   year: 2021-2022
   
@@ -81,14 +81,14 @@
 - name: Scott Frodsham
   photo: 
   info: Bioinformatics Data Analyst
-  url: scottfrodsham
+  url:
   group: 8
   year: 2017-2021
 
 - name: Jose Lazaroguevara
   photo: 
   info: MD/Graduate Student
-  url: joselazaroguevara
+  url: 
   group: 8
   year: 2019-2021
   
