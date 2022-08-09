@@ -48,14 +48,23 @@ This is the code for the Pezzolessi Lab Website. This repo is an adaptation of .
 
 * **Adding to the Code Page**
   * This one is changed by accessing the file `_pages/code.md`. You can add a link to the source code on github by making a link like done in the 'Adding Research' section with the \[title](website) syntax. You can add an image on the next line, add it to the `images/codepic` folder and then change the name of the existing file to your pictures name. You can add information about your code/project on the next line, and the last line is an explicit link to the github repo with a nice little github icon. If adding more to this page, I would copy the lines from the project we have on there currently and place the next project below. You should have 3 dashes between each project as well as 3 dashes above the first and below the last project like so: <br/>
-\---<br/>
-proj1<br/>
-\---<br/>
-proj2<br/>
-\---<br/>
+```
+  ---
+  proj1
+  ---
+  proj2
+  ---
+```
 
 * **Adding to the Participation Page**
   * Currently empty, open for formatting as you like. You can copy the format from another file/page that you are comfortable with and place it in here `_pages/participation.md`.
 
 * **Changing the Contact Page**
   * This one is all in markdown, see the info on editing the homepage for some basics on markdown, googling markdown is great for help too. You can just edit the text here however you want. Adding \<br/> where you want a break in a line or a new line will be helpful here or in markdown in general. This file is found here: `_pages/contact.md`.
+  
+* **Changing the Header and Footer**
+  * In the _includes folder locate either the header.html file or the footer.html file. In the navbar section of this file you can now add, remove, or reorder your tabs. Make sure to use the correct html list format. Example: 
+  
+````
+<li><a href="{{ site.url }}{{ site.baseurl }}/about">About</a></li>
+````
