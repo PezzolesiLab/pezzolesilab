@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for the Pezzolessi Lab Website. This repo is an adaptation of .... This website collects essential information about lab participation, publication information, and team members. This website was original adapted by [Brady Neeley](mailto:mbradyneeley@gmail.com) and continues to be updated by Devorah Stucki. If you have any questions about website functionality or find any bugs please reach out to [Devorah Stucki](mailto:devorah.stucki@hsc.utah.edu)
+This is the code for the Pezzolessi Lab Website. This repo is an adaptation of the [Bedford Research Lab Website](https://github.com/blab/blotter). This website collects essential information about lab participation, publication information, and team members. This website was original adapted by [Brady Neeley](mailto:mbradyneeley@gmail.com) and continues to be updated by Devorah Stucki. If you have any questions about website functionality or find any bugs please reach out to [Devorah Stucki](mailto:devorah.stucki@hsc.utah.edu).
 
 ## Making Changes to the Website
 1. [Adding a new team member](#1-adding-a-new-team-member)
