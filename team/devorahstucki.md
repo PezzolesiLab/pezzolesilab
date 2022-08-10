@@ -13,7 +13,7 @@ ucsf:
 ---
 
 ### Overview
-Devorah is the labs Bioinformatics Data Analyst. She manages a EHR database and helps with genetic analysis. She’s passionate about using technology to find innovative solutions to complex problems. When she’s not working Devorah loves horses, music, and camping
+Devorah is the lab's Bioinformatics Data Analyst. She manages an EHR database and helps with genetic analysis. She’s passionate about using technology to find innovative solutions to complex problems. When she’s not working Devorah loves horses, music, and camping
 
 
 
