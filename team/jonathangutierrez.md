@@ -7,7 +7,7 @@ email: jonathan.gutierrez@utah.edu
 twitter: 
 github: 
 scholar: 
-photo: 
+photo: Jonathan.jpg
 ucsf: 
 ---
 
