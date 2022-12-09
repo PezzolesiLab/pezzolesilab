@@ -77,7 +77,7 @@ We are grateful for funding from the [National Institute of Diabetes and Digesti
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_NKF_UTandID.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_UGP.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_margolis.png" style="width: 200px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_janssen.png" style="width: 200px">   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_renalytix.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_janssen.png" style="width: 200px">   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_renalytix.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ADA.jpg" style="width: 200px">
 </figure>
 
 
