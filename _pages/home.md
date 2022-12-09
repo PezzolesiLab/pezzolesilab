@@ -70,7 +70,7 @@ We also collaborate with the leading researchers from across the United States, 
 If you are interested in joining, please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/), the [Diabetic Complications Consortium](https://diacomp.org/), the [Driving Out Diabetes](https://healthcare.utah.edu/wellness/driving-out-diabetes/), the [National Kidney Foundation of Utah and Idaho](https://www.kidneyut.org/), the [Utah Genome Project](https://uofuhealth.utah.edu/center-genomic-medicine/research/utah-genome-project.php), [Janssen](https://www.janssen.com/), [American Diabetes Association](https://diabetes.org/) and [renalytix](https://renalytix.com/).
+We are grateful for funding from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/), the [Diabetic Complications Consortium](https://diacomp.org/), the [Driving Out Diabetes](https://healthcare.utah.edu/wellness/driving-out-diabetes/), the [National Kidney Foundation of Utah and Idaho](https://www.kidneyut.org/), the [Utah Genome Project](https://uofuhealth.utah.edu/center-genomic-medicine/research/utah-genome-project.php), [Janssen](https://www.janssen.com/), [American Diabetes Association](https://diabetes.org/), and [renalytix](https://renalytix.com/).
 
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_NIDDKD.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_NIDDK_Pilot_Award.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_driving_out_diabetes.png" style="width: 200px">
