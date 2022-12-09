@@ -64,6 +64,19 @@
   url: michaellansford
   group: 1
   
+- name: Jose Lazaroguevara
+  photo: 
+  info: Post-doctoral Bioinformatician
+  url: joselazaroguevara
+  group: 1
+  
+- name: Brady Neeley
+  photo: brady_neeley.jpg
+  info: Bioinformatics Data Analyst
+  url: bradyneeley
+  group: 8
+  year: 2021-2022
+  
 - name: Adam Johnson
   photo:
   info: Undergraduate Researcher
@@ -84,13 +97,6 @@
   url:
   group: 8
   year: 2017-2021
-
-- name: Jose Lazaroguevara
-  photo: 
-  info: MD/Graduate Student
-  url: 
-  group: 8
-  year: 2019-2021
   
 - name: Wynn Mellor
   photo: 
