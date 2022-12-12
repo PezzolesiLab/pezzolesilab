@@ -1,13 +1,13 @@
 ---
 layout: member
-title: Jose Lazaro Guevara
+title: Jose Lazaro
 position: Post-doctoral Bioinformatician
 handle: joselazaroguevara
 email: jose.lazaroguevara@utah.edu
 twitter: 
 github:
 scholar: 
-photo: Jose.jpeg
+photo: Jose.jpg
 ucsf: 
 ---
 
@@ -18,6 +18,9 @@ Jose Miguel Lazaro is an MD with more than 7 years of experience in clinical gen
 ### Education
 
 Bachiller in computer science with scientific orientation, Don Bosco Salesian College, Guatemala.
+
 M.D., University of San Carlos of Guatemala, Guatemala.
+
 M.Eng, Worcester Polytechnic Institute, Worcester, MA.
+
 M.Sc., Human Genetics, University of Utah, Salt Lake City, UT.
