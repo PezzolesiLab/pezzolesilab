@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Levi Dias
-position: Undergraduate Researcher
+position: Genomics Summer Research for Minorities Internship Researcher
 handle: levidias
 email: 
 twitter: 
