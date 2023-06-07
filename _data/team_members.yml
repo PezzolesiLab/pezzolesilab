@@ -4,12 +4,6 @@
   url: marcuspezzolesi
   group: 1
 
-- name: Chris Simeone
-  photo: chris.jpg
-  info: Graduate Student
-  url: chrissimeone
-  group: 1
-
 - name: Tiehua Chen
   photo: tiehua.jpeg
   info: Research Scientist
@@ -33,29 +27,35 @@
   info: Study Coordinator
   url: jonathangutierrez
   group: 1
+  
+- name: Emma Taylor
+  photo: Emma.JPEG
+  info: Study Coordinator
+  url: emmataylor
+  group: 1
 
+- name: Michael Lansford
+  photo: michael_lansford.jpg
+  info: Graduate Student
+  url: michaellansford
+  group: 1
+  
+- name: Connor Littlefield
+  photo: 
+  info: Graduate Student
+  url: connorlittlefield
+  group: 1
+  
 - name: Vismaya Kharkar
   photo: Vismaya.jpg
   info: Medical Student Researcher
   url: vismayakharkar
   group: 1
-
-- name: Karah Hall
-  photo: karah.jpg
-  info: Undergraduate Researcher
-  url: karahhall
-  group: 1
-
-- name: Alex Wiedemann
-  photo: alex_w.jpg
-  info: Undergraduate Researcher
-  url: alexwiedemann
-  group: 1
-
-- name: Michael Lansford
-  photo: michael_lansford.jpg
-  info: Rotational Grad Student
-  url: michaellansford
+  
+- name: Brock Coleman
+  photo: Brock.jpg
+  info: Medical Student Researcher
+  url: brockcoleman
   group: 1
   
 - name: Jose Lazaro
@@ -63,6 +63,45 @@
   info: Post-doctoral Bioinformatician
   url: joselazaroguevara
   group: 1
+  
+- name: Amber Thomas
+  photo: Amber.jpg
+  info: Native American Research Internship Program Researcher
+  url: amberthomas
+  group: 1
+  
+- name: Levi Dias
+  photo: Levi.JPG
+  info: Undergraduate Researcher
+  url: lavidias
+  group: 1
+  
+- name: Kime Lao
+  photo: 
+  info: Pacific Islander Research Internship Program Researcher
+  url: kimelao
+  group: 1
+  
+- name: Chris Simeone
+  photo: chris.jpg
+  info: Graduate Student
+  url: chrissimeone
+  group: 8
+  year: 2018-2023
+  
+- name: Alex Wiedemann
+  photo: alex_w.jpg
+  info: Undergraduate Researcher
+  url: alexwiedemann
+  group: 8
+  year: 2022-2023
+  
+- name: Karah Hall
+  photo: karah.jpg
+  info: Undergraduate Researcher
+  url: karahhall
+  group: 8
+  year: 2021-2023
   
 - name: Brady Neeley
   photo: brady_neeley.jpg
