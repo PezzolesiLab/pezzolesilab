@@ -18,4 +18,4 @@ Devorah is the lab's Bioinformatics Data Analyst. She manages an EHR database an
 
 
 ### Education
-- BS, Bioinformatics, Minor in Chemistry and Computer Science, Brigham Young University, Provo, UT
+- BS, Bioinformatics, Minor in Chemistry and Computer Science, Brigham Young University, Provo, UT, 2022
