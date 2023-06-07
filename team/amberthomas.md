@@ -4,7 +4,7 @@ title: Amber Thomas
 position: Native American Research Internship Program Researcher
 handle: amberthomas
 email: tamber598@gmail.com
-linkedin: Amber Thomas
+linkedin: AmberThomas
 scholar: 
 photo: Amber.jpg
 ucsf: 
