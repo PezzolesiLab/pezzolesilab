@@ -2,12 +2,12 @@
 layout: member
 title: Connor Littlefield
 position: Gradute Student
-handle: connotlittlefield
+handle: connorlittlefield
 email: 
 twitter: 
 github: 
 scholar: 
-photo: 
+photo: connor.jpeg
 ucsf: 
 ---
 
