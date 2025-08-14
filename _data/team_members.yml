@@ -4,6 +4,12 @@
   url: marcuspezzolesi
   group: 1
 
+- name: Michael George
+  photo: 
+  info: Undergraduate Researcher
+  url: michaelgeorge
+  group: 1
+
 - name: Jose Lazaro
   photo: Jose.jpg
   info: Post-doctoral Bioinformatician
@@ -22,6 +28,12 @@
   url: melissapezzolesi
   group: 1
 
+- name: Tara Price
+  photo: 
+  info: Postdoc Fellow
+  url: taraprice
+  group: 1
+  
 - name: Devorah Stucki
   photo: devorah.jpeg
   info: Bioinformatics Data Analyst
@@ -32,6 +44,12 @@
   photo: Emma.JPEG
   info: Study Coordinator
   url: emmataylor
+  group: 1
+
+- name: Travis Tu'ifua
+  photo: 
+  info: Postdoc Fellow
+  url: travistuifua
   group: 1
 
 - name: Michael Lansford
