@@ -4,16 +4,16 @@
   url: marcuspezzolesi
   group: 1
 
-- name: Tiehua Chen
-  photo: tiehua.jpeg
-  info: Research Scientist
-  url: tiehuachen
+- name: Jose Lazaro
+  photo: Jose.jpg
+  info: Post-doctoral Bioinformatician
+  url: joselazaroguevara
   group: 1
-  
-- name: Devorah Stucki
-  photo: devorah.jpeg
-  info: Bioinformatics Data Analyst
-  url: devorahstucki
+
+- name: Connor Littlefield
+  photo: connor.jpeg
+  info: Graduate Student
+  url: connorlittlefield
   group: 1
 
 - name: Melissa Pezzolesi
@@ -22,10 +22,10 @@
   url: melissapezzolesi
   group: 1
 
-- name: Jonathan Gutierrez
-  photo: Jonathan.jpg
-  info: Study Coordinator
-  url: jonathangutierrez
+- name: Devorah Stucki
+  photo: devorah.jpeg
+  info: Bioinformatics Data Analyst
+  url: devorahstucki
   group: 1
   
 - name: Emma Taylor
@@ -38,49 +38,57 @@
   photo: michael_lansford.jpg
   info: Graduate Student
   url: michaellansford
-  group: 1
+  group: 8
+  year: 2022-2025
   
-- name: Connor Littlefield
-  photo: connor.jpeg
-  info: Graduate Student
-  url: connorlittlefield
-  group: 1
+- name: Tiehua Chen
+  photo: tiehua.jpeg
+  info: Research Scientist
+  url: tiehuachen
+  group: 8
+  year: 2023-2024
+
+- name: Jonathan Gutierrez
+  photo: Jonathan.jpg
+  info: Study Coordinator
+  url: jonathangutierrez
+  group: 8
+  year: 2023
   
 - name: Vismaya Kharkar
   photo: Vismaya.jpg
   info: Medical Student Researcher
   url: vismayakharkar
-  group: 1
+  group: 8
+  year: 2022-2023
   
 - name: Brock Coleman
   photo: Brock.jpg
   info: Medical Student Researcher
   url: brockcoleman
-  group: 1
-  
-- name: Jose Lazaro
-  photo: Jose.jpg
-  info: Post-doctoral Bioinformatician
-  url: joselazaroguevara
-  group: 1
+  group: 8
+  year: 2023
   
 - name: Amber Thomas
   photo: Amber.jpg
   info: Native American Research Internship Program Researcher
   url: amberthomas
-  group: 1
+  group: 8
+  year: 2023
   
 - name: Levi Dias
   photo: Levi.JPG
   info: Genomics Summer Research for Minorities Internship Researcher
   url: levidias
-  group: 1
+  group: 8
+  year: 2023
   
 - name: Kime Lao
   photo: 
   info: Pacific Islander Research Internship Program Researcher
   url: kimelao
-  group: 1
+  group: 8
+  year: 2023
   
 - name: Chris Simeone
   photo: chris.jpg
