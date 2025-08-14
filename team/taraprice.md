@@ -7,7 +7,7 @@ email:
 twitter: 
 github: 
 scholar: 
-photo: 
+photo: Tara.jpg
 ucsf: 
 ---
 
