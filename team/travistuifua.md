@@ -3,7 +3,7 @@ layout: member
 title: Travis Tu'ifua
 position: Postdoc Fellow
 handle: travistuifua
-email: 
+email:
 twitter: @tongantravatar
 github: 
 scholar: 
