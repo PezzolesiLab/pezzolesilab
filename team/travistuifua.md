@@ -24,4 +24,5 @@ spending time with his wife and four children.
 
 ### Education
 Ph.D., Human Genetics, University of Utah, Salt Lake City, UT
+
 B.S. Biomedical Engineering, University of Utah, Salt Lake City, UT
