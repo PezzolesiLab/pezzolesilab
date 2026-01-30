@@ -4,7 +4,7 @@ title: Travis Tu'ifua
 position: Postdoc Fellow
 handle: travistuifua
 email:
-twitter: @tongantravatar
+twitter: tongantravatar
 github: 
 scholar: 
 photo: Travis.jpg
