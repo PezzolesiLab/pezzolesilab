@@ -8,6 +8,8 @@ twitter: tongantravatar
 github: 
 scholar: 
 photo: Travis.jpg
+ucsf: 
+linkedin: https://www.linkedin.com/in/travis-tu-ifua-phd-4a08241ba/
 ---
 
 ### Overview
