@@ -4,6 +4,12 @@
   url: marcuspezzolesi
   group: 1
 
+- name: Cooper Ford
+  photo: cooper.jpg
+  info: Undergraduate Researcher
+  url: cooperford
+  group: 1
+  
 - name: Michael George
   photo: MichaelG.jpg
   info: Undergraduate Researcher
@@ -56,6 +62,12 @@
   photo: Will.jpg
   info: Undergraduate Researcher
   url: williamvercillo
+  group: 1
+
+- name: Kasey Xu
+  photo: kasey.png
+  info: Undergraduate Researcher
+  url: kaseyxu
   group: 1
 
 - name: Michael Lansford
