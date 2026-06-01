@@ -3,7 +3,7 @@ layout: member
 title: Kasey Xu
 position: Undergraduate Researcher
 handle: kaseyxu
-email: 
+email: kaseyxu@sas.upenn.edu
 twitter:
 github: 
 scholar: 
